@@ -1,0 +1,17 @@
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.APPLICATION.deps.json
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.APPLICATION.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.APPLICATION.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.DOMAIN.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.INFRA.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.DOMAIN.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\bin\Release\net6.0\WorkerCambioRestricao.INFRA.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.csproj.AssemblyReference.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.AssemblyInfoInputs.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.AssemblyInfo.cs
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.csproj.CoreCompileInputs.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.csproj.CopyComplete
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\refint\WorkerCambioRestricao.APPLICATION.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\WorkerCambioRestricao.APPLICATION.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.APPLICATION\obj\Release\net6.0\ref\WorkerCambioRestricao.APPLICATION.dll

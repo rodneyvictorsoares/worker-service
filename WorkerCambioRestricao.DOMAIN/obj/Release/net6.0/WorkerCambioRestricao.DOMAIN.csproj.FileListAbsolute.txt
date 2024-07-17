@@ -1,0 +1,12 @@
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\bin\Release\net6.0\WorkerCambioRestricao.DOMAIN.deps.json
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\bin\Release\net6.0\WorkerCambioRestricao.DOMAIN.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\bin\Release\net6.0\WorkerCambioRestricao.DOMAIN.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.csproj.AssemblyReference.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.AssemblyInfoInputs.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.AssemblyInfo.cs
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\refint\WorkerCambioRestricao.DOMAIN.dll
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\WorkerCambioRestricao.DOMAIN.pdb
+D:\Projetos\ASPNET\CambioCSVWorker\WorkerCambioRestricao\WorkerCambioRestricao.DOMAIN\obj\Release\net6.0\ref\WorkerCambioRestricao.DOMAIN.dll
