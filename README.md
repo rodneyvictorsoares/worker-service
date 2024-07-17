@@ -7,6 +7,7 @@
 ![MoQ](https://img.shields.io/badge/MoQ-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Fine Code Coverage](https://img.shields.io/badge/Fine_Code_Coverage-282C34?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-green)
 
 ## Visão Geral
 
@@ -241,12 +242,19 @@ namespace WorkerCambioRestricao.TESTS
     ```
 
 ## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias e correções.
 
-Sinta-se à vontade para contribuir com o projeto. Por favor, siga as diretrizes de contribuição e mantenha um estilo de código consistente.
+## 📄 Licença
 
-## Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Este projeto é licenciado sob os termos da licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## 👥 Contribuidores
+
+- Rodney Victor (https://github.com/rodneyvictorsoares) - Desenvolvedor
+
+## 📞 Contato
+
+Para dúvidas ou sugestões, entre em contato através do email: ordabelem@hotmail.com
 
 ---
 
